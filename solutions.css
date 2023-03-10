@@ -18,3 +18,18 @@
 .ex-2-square{
     transition: 2s;
 }
+
+
+
+
+
+
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+
+.ex-3-square{
+    transition: 0.5s;
+}
+
+
