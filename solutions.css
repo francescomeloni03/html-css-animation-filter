@@ -79,3 +79,28 @@
 .ex-7-img{
     transition: 2s;
 }
+
+
+
+
+.ex-8-img:hover{
+    filter: sepia(0.8) opacity(0.4);
+    border-radius: 10%;
+}
+
+
+.ex-8-img{
+    transition: 2s;
+}
+
+
+
+.ex-9-img:hover{
+    filter: brightness(0.25) grayscale(1);
+    border-radius: 10px;
+    transform: scale(1.4);
+}
+
+.ex-9-img{
+    transition: 2s;
+}
