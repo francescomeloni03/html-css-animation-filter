@@ -104,3 +104,17 @@
 .ex-9-img{
     transition: 2s;
 }
+
+
+
+.ex-10-icon{
+    animation: rotate 1s linear infinite;
+    
+}
+
+
+@keyframes rotate{
+    0%{
+     transform: rotate(1turn);
+    }
+}
